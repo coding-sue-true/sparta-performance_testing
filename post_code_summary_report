@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="78" it="0" lt="78" ct="26" ts="1515516763537" s="true" lb="HTTP Request - Multi PostCodes" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1850" sby="218" ng="1" na="1">
+  <assertionResult>
+    <name>Response Assertion</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+</httpSample>
+<httpSample t="38" it="0" lt="38" ct="0" ts="1515516763616" s="true" lb="HTTP Request - PostCode1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1067" sby="186" ng="1" na="1"/>
+<httpSample t="51" it="0" lt="51" ct="0" ts="1515516763655" s="true" lb="HTTP Request - PostCode2" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1018" sby="186" ng="1" na="1"/>
+<sample t="0" it="0" lt="0" ct="0" ts="1515516763707" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="303" sby="0" ng="1" na="1"/>
+
+</testResults>
