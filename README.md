@@ -1,5 +1,8 @@
 # sparta-performance_testing
 
+## Performance Testing using Apache JMeter
+- Spike, Soak, Stress and Load 
+
 ## Steps
 
 ![JMeter](/images/jmeter1.png)
